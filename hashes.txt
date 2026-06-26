@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Une Nuit Blanche
+
+This log tracks the cryptographic history and versioning for the song **Une Nuit Blanche** (une-nuit-blanche).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-26T18:36:49.270760 | `v1` | `ccf40279da793dea81dd667bac8d87590d14a71f1820097f311b3eb0b6e820ae` | `f54e8686bedfeb966c45eeea90c794b347c4dac55aa70ceb8c80c87c69dd8fd7` | `2026-06-26_une-nuit-blanche-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

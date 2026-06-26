@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/une-nuit-blanche/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Une Nuit Blanche](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/une-nuit-blanche/) |
+| **Get License** | [Official Music Licensing for Une Nuit Blanche](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/une-nuit-blanche/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `ccf40279da793dea81dd667bac8d87590d14a71f1820097f311b3eb0b6e820ae` |
 | **Timestamp** | June 26, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
